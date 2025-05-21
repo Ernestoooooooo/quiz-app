@@ -72,7 +72,7 @@ Además, la aplicación es **responsive**, adaptándose automáticamente a difer
 
 - Franklin Rony Cortez Barrera (k20250003)
 - Katherinne Julissa Arévalo Sierra (k20250017)
-- Nombre 3
+- Ernesto Enrique Molina López (K20240019)
 - Nombre 4
 - Nombre 5
 - Nombre 6
